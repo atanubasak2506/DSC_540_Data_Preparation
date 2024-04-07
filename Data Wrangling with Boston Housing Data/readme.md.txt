@@ -1,11 +1,37 @@
 
-=============================================================
-=============================================================
+==========================================================================================================================
+==========================================================================================================================
 
-            Project: Data Wrangling project on Boston housing data and Income
+            Project: Data Wrangling project on Boston housing data
 
-=============================================================
-=============================================================
-In this project I have read the data for Boston Housing, that I got from Kaggle, I did further research on several attributes along in proper plotting. I also did data analysis on income data, I did further analysis on other factors to identify, what are the factors that influence income. 
+==========================================================================================================================
+==========================================================================================================================
+In this project I have read the data for Boston Housing, that I got from Kaggle, I did further research on several attributes along in proper plotting. I have dropped unnecessary variables from the data and plot the histograms, so that we have better understanding on the distrution of different attributes.
 
-Software Used : Python (Libraries: Pandas, Numpy, Matplotlib, sklearn), Jupyter Notebook
+
+Prerequisites
+=====================================================================
+
+pip install pandas
+pip install numpy
+pip install seaborn
+
+Software Used : 
+=====================================================================
+
+Python Libraries: Pandas, Numpy, Matplotlib, sklearn
+Jupyter Notebook
+
+
+Contact 
+=====================================================================
+
+Atanu Basak
+atanubasakp2506@gmail.com
+
+
+Data Source
+=====================================================================
+
+www.kaggle.com
+
